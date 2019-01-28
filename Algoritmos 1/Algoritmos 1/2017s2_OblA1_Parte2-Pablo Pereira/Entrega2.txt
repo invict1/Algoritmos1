@@ -1,0 +1,57 @@
+EJERCICIOS 2 - SEGUNDA ENTREGA
+
+1)	Complete la implementación ListaOrdImp2 del TAD ListaOrd especificado en el proyecto, 
+	de forma que las operaciones AgregarOrd, Borrar, Recuperar y Existe se realicen en 
+	tiempo de ejecución O(log2n) en promedio y CantidadElementos en O(1). La implementación no debe ser acotada.				NODOABB
+
+2)	Complete la implementación TablaImp del TAD Tabla especificado en el proyecto.
+	La implementación no debe ser acotada
+	Sugerencia: Usar la clase Asociacion (se puede hacer sin usarla)
+
+3)	Complete la implementación MultiSetImp del TAD MultiSet especificado en el proyecto.										LISTAPOS(no tiene orden)					
+	La implementación no debe ser acotada.
+
+4)	Dado un multiset, retorna una ListaOrd con los elementos que aparecen mas de una vez en el multiset.
+	Ejemplo:																			
+	Dado el multiset con los elementos (1,5,9,1,2,9,9) retorna la lista (1,9)
+
+	ListaOrd<T>* ObtenerRepetidos(const MultiSet<T> &m);
+
+5)	Implemente la función ContarOcurrencias que retorne una tabla que contenga los pares <elemento, cantidad de ocurrencias> 
+	para cada elemento de la lista l recibida.
+	Ejemplo: 
+	Dada la lista (1,5,9,1,2,9,9) retorna la tabla con los pares [1,2],[2,1],[5,1],[9,3]
+
+	Tabla<T, int>* ContarOcurrencias(const ListaOrd<T>& l);
+
+6)	Dados dos multisets m1 y m2, retorna un nuevo multiset con los elementos que estan en m1 o en m2, pero no en los dos.
+
+	MultiSet<T>* Xor(const Multiset<T> &m1, const MultiSet<T> &m2);	
+
+7)	Implemente la función ParentesisBalanceados que dado un string con paréntesis que se abren "(, [ o {" y se cierran "), ] o }",
+	retorne true si y solo si se cumple que:
+	- para cada paréntesis abierto hay un paréntesis que lo cierra. El paréntesis cierra solamente al último abierto de su mismo tipo.
+	- no hay paréntesis que se cierren cuando no hay abiertos anteriores de su mismo tipo
+	Ejemplo: "((5)+(7*7))*((4*8)/(2/2))" -> true
+	Ejemplo: "(((4))" -> false
+	Ejemplo: "(()4()()))" -> false
+	Ejemplo: "(((4)})" -> false
+	Ejemplo: "({(4)})" -> true
+
+	bool ParentesisBalanceados(char *formula);
+
+8)	Considere la siguiente definición de árbol general implementado como AB primer hijo - siguiente hermano de enteros:
+	struct NodoAG { 
+		int dato;
+		NodoAG *ph, *sh; 
+	};
+	Implemente un procedimiento iterativo ImprimirPorNiveles, que recibiendo un puntero a un AG
+	de tipo NodoAG lo muestre por consola por niveles, de arriba hacia abajo y de izquierda a derecha. 
+	Se deben imprimir los valores separados por un espacio en blanco.
+	El procedimiento puede recorrer como máximo una vez el árbol parámetro. 
+
+	void ImprimirPorNiveles(NodoAG* a)
+
+	Por ejemplo recibiendo el AG {{1,-7,5,#,15,#,#,3,#,4,8,34}} se debe imprimir:
+	1 -7 3 4 5 15 8 34
+	Si el AG es vacío no imprime nada.

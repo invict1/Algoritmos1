@@ -1,0 +1,147 @@
+********* INICIO PRUEBAS Enlistar*******
+-----------------------------------
+Prueba 0: Prueba de pasar AB a ListaOrd 1 -> OK
+-----------------------------------
+Prueba 1: Prueba de pasar AB a ListaOrd 2 -> OK
+-----------------------------------
+Prueba 2: Prueba de pasar AB a ListaOrd 3 -> OK
+********* FIN PRUEBAS Enlistar*******
+
+********* INICIO PRUEBAS UnionListaOrd*******
+-----------------------------------
+Prueba 3: Prueba union de dos listas ordenadas 1 -> OK
+-----------------------------------
+Prueba 4: Prueba union de dos listas ordenadas 2 -> OK
+-----------------------------------
+Prueba 5: Prueba union de dos listas ordenadas 3 -> OK
+********* FIN PRUEBAS UnionListaOrd*******
+
+********* INICIO PRUEBAS EstaContenida*******
+-----------------------------------
+Prueba 6: Prueba de pila contenida 1 -> OK
+-----------------------------------
+Prueba 7: Prueba de pila contenida 2 -> OK
+-----------------------------------
+Prueba 8: Prueba de pila contenida 3 -> OK
+-----------------------------------
+Prueba 9: Prueba de pila contenida 4 -> OK
+********* FIN PRUEBAS EstaContenida*******
+
+********* INICIO PRUEBAS CantidadDeHojas*******
+-----------------------------------
+Prueba 10: Prueba contar hojas AB iterativo 1 -> OK
+-----------------------------------
+Prueba 11: Prueba contar hojas AB iterativo 2 -> OK
+-----------------------------------
+Prueba 12: Prueba contar hojas AB iterativo 3 -> OK
+********* FIN PRUEBAS CantidadDeHojas*******
+
+********* INICIO PRUEBAS ImprimirPorNiveles*******
+-----------------------------------
+Prueba 13: Prueba imprimir AB por niveles 1 -> OK
+-----------------------------------
+Prueba 14: Prueba imprimir AB por niveles 2 -> OK
+-----------------------------------
+Prueba 15: Prueba imprimir AB por niveles 3 -> OK
+********* FIN PRUEBAS ImprimirPorNiveles*******
+
+********* INICIO PRUEBAS LISTA POS*******
+-----------------------------------
+Prueba 16: Imprimo la lista luego de agregar 2 datos al principio -> OK
+-----------------------------------
+Prueba 17: Imprimo la lista luego de agregar 2 datos al final -> OK
+-----------------------------------
+Prueba 18: Imprimo la lista luego de agregar el dato 3 en la posición 2 -> OK
+-----------------------------------
+Prueba 19: Imprimo el largo de la lista -> OK
+-----------------------------------
+Prueba 20: Imprimo el la lista original y su clon -> OK
+-----------------------------------
+Prueba 21: Imprimo luego de crearvacia -> OK
+-----------------------------------
+Prueba 22: Imprimo luego de = -> OK
+-----------------------------------
+Prueba 23: Imprimo prueba de == sobre listas iguales -> OK
+-----------------------------------
+Prueba 24: Imprimo prueba de == sobre listas distintas -> OK
+-----------------------------------
+Prueba 25: Imprimo clon luego de asignarle l -> OK
+-----------------------------------
+Prueba 26: Imprimo el principio de la lista -> OK
+-----------------------------------
+Prueba 27: Imprimo el fin de la lista -> OK
+-----------------------------------
+Prueba 28: Imprimo el elemento de la cuarta posición -> OK
+-----------------------------------
+Prueba 29: Imprimo la lista luego de eliminar el principio -> OK
+-----------------------------------
+Prueba 30: Imprimo la lista luego de eliminar el fin -> OK
+-----------------------------------
+Prueba 31: Imprimo la lista luego de eliminar el tercer elemento -> OK
+-----------------------------------
+Prueba 32: Imprimo la lista luego de eliminar el elemento 3 -> OK
+-----------------------------------
+Prueba 33: Imprimo la posicion del elemento 4 -> OK
+-----------------------------------
+Prueba 34: Imprimo si el elemento 4 existe en la lista -> OK
+-----------------------------------
+Prueba 35: Imprimo si el elemento 6 existe en la lista -> OK
+-----------------------------------
+Prueba 36: Imprimo si la lista se encuentra vacia -> OK
+-----------------------------------
+Prueba 37: Imprimo la lista luego de vaciarla -> OK
+-----------------------------------
+Prueba 38: Imprimo si la lista se encuentra vacia  -> OK
+********* FIN PRUEBAS LISTA POS*******
+
+********* INICIO PRUEBAS PILA*******
+-----------------------------------
+Prueba 39: Imprimo la pila luego de agregar 10 datos -> OK
+-----------------------------------
+Prueba 40: Imprimo la pila luego de eliminar elemento -> OK
+-----------------------------------
+Prueba 41: Muestro que la pila no es vacia -> OK
+-----------------------------------
+Prueba 42: Clono la pila y imprimo tanto el clon como la original -> OK
+-----------------------------------
+Prueba 43: Imprimo luego de crearvacia -> OK
+-----------------------------------
+Prueba 44: Imprimo luego de = -> OK
+-----------------------------------
+Prueba 45: Vacio la pila original y la imprimo -> OK
+-----------------------------------
+Prueba 46: Uso el metodo CrearVacia y muestro que es vacia -> OK
+-----------------------------------
+Prueba 47: Muestro el largo de la pila clon y la original -> OK
+-----------------------------------
+Prueba 48: Muestro todos los elementos de la pila clon -> OK
+********* FIN PRUEBAS PILA*******
+
+********* INICIO PRUEBAS COLA*******
+-----------------------------------
+Prueba 49: Imprimo la cola luego de agregar 5 elementos -> OK
+-----------------------------------
+Prueba 50: Imprimo el primer elemento  -> OK
+-----------------------------------
+Prueba 51: Imprimo el elemento desencolado y la cola -> OK
+-----------------------------------
+Prueba 52: Imprimo el largo de la cola -> OK
+-----------------------------------
+Prueba 53: Imprimo la cola original y el clon de la misma  -> OK
+-----------------------------------
+Prueba 54: Imprimo luego de crearvacia -> OK
+-----------------------------------
+Prueba 55: Imprimo luego de = -> OK
+-----------------------------------
+Prueba 56: Imprimo la cola luego de vaciarla -> OK
+-----------------------------------
+Prueba 57: Imprimo si la cola y su clon son vacias -> OK
+********* FIN PRUEBAS COLA*******
+
+
+
+----------------
+PRUEBAS CORRECTAS: 58
+PRUEBAS INCORRECTAS: 0
+PRUEBAS NO IMPLEMENTADAS: 0
+PRUEBAS COMENTADAS: 0

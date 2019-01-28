@@ -1,0 +1,270 @@
+********* INICIO PRUEBAS ObtenerRepetidos*******
+-----------------------------------
+Prueba 0: Prueba ObtenerRepetidos 1 -> OK
+-----------------------------------
+Prueba 1: Prueba ObtenerRepetidos 2 -> OK
+-----------------------------------
+Prueba 2: Prueba ObtenerRepetidos 3 -> OK
+-----------------------------------
+Prueba 3: Prueba ObtenerRepetidos 4 -> OK
+-----------------------------------
+Prueba 4: Prueba ObtenerRepetidos 5 -> OK
+-----------------------------------
+Prueba 5: Prueba ObtenerRepetidos 6 -> OK
+-----------------------------------
+Prueba 6: Prueba ObtenerRepetidos 7 -> OK
+-----------------------------------
+Prueba 7: Prueba ObtenerRepetidos 8 -> OK
+-----------------------------------
+Prueba 8: Prueba ObtenerRepetidos 9 -> OK
+-----------------------------------
+Prueba 9: Prueba ObtenerRepetidos 10 -> OK
+-----------------------------------
+Prueba 10: Prueba ObtenerRepetidos 11 -> OK
+-----------------------------------
+Prueba 11: Prueba ObtenerRepetidos 12 -> OK
+********* FIN PRUEBAS ObtenerRepetidos*******
+
+********* INICIO PRUEBAS ContarOcurrencias*******
+-----------------------------------
+Prueba 12: Prueba ContarOcurrencias 1 -> OK
+-----------------------------------
+Prueba 13: Prueba ContarOcurrencias 2 -> OK
+-----------------------------------
+Prueba 14: Prueba ContarOcurrencias 3 -> OK
+-----------------------------------
+Prueba 15: Prueba ContarOcurrencias 4 -> OK
+-----------------------------------
+Prueba 16: Prueba ContarOcurrencias 5 -> OK
+-----------------------------------
+Prueba 17: Prueba ContarOcurrencias 6 -> OK
+-----------------------------------
+Prueba 18: Prueba ContarOcurrencias 7 -> OK
+-----------------------------------
+Prueba 19: Prueba ContarOcurrencias 8 -> OK
+-----------------------------------
+Prueba 20: Prueba ContarOcurrencias 9 -> OK
+-----------------------------------
+Prueba 21: Prueba ContarOcurrencias 10 -> OK
+********* FIN PRUEBAS ContarOcurrencias*******
+
+********* INICIO PRUEBAS Xor de multisets*******
+-----------------------------------
+Prueba 22: Prueba Xor de multisets 1 -> OK
+-----------------------------------
+Prueba 23: Prueba Xor de multisets 2 -> OK
+-----------------------------------
+Prueba 24: Prueba Xor de multisets 3 -> OK
+-----------------------------------
+Prueba 25: Prueba Xor de multisets 4 -> OK
+-----------------------------------
+Prueba 26: Prueba Xor de multisets 5 -> OK
+-----------------------------------
+Prueba 27: Prueba Xor de multisets 6 -> OK
+-----------------------------------
+Prueba 28: Prueba Xor de multisets 7 -> OK
+-----------------------------------
+Prueba 29: Prueba Xor de multisets 8 -> OK
+-----------------------------------
+Prueba 30: Prueba Xor de multisets 9 -> OK
+-----------------------------------
+Prueba 31: Prueba Xor de multisets 10 -> OK
+********* FIN PRUEBAS Xor de multisets*******
+
+********* INICIO PRUEBAS Paréntesis Balanceados*******
+-----------------------------------
+Prueba 32: Prueba parentesisBalanceados 1 -> OK
+-----------------------------------
+Prueba 33: Prueba parentesisBalanceados 2 -> OK
+-----------------------------------
+Prueba 34: Prueba parentesisBalanceados 3 -> OK
+-----------------------------------
+Prueba 35: Prueba parentesisBalanceados 4 -> OK
+-----------------------------------
+Prueba 36: Prueba parentesisBalanceados 5 -> OK
+-----------------------------------
+Prueba 37: Prueba parentesisBalanceados 6 -> OK
+-----------------------------------
+Prueba 38: Prueba parentesisBalanceados 7 -> OK
+-----------------------------------
+Prueba 39: Prueba parentesisBalanceados 8 -> OK
+-----------------------------------
+Prueba 40: Prueba parentesisBalanceados 9 -> OK
+-----------------------------------
+Prueba 41: Prueba parentesisBalanceados 10 -> OK
+********* FIN PRUEBAS Paréntesis Balanceados*******
+
+********* INICIO PRUEBAS ImprimirPorNiveles AG*******
+-----------------------------------
+Prueba 42: Prueba imprimir AG por niveles 1 -> OK
+-----------------------------------
+Prueba 43: Prueba imprimir AG por niveles 2 -> OK
+-----------------------------------
+Prueba 44: Prueba imprimir AG por niveles 3 -> OK
+********* FIN PRUEBAS ImprimirPorNiveles AG*******
+
+********* INICIO PRUEBAS LISTA ORD*******
+-----------------------------------
+Prueba 45: Imprimo la lista luego de agregar 9 datos -> OK
+-----------------------------------
+Prueba 46: Imprimo el largo de la lista -> OK
+-----------------------------------
+Prueba 47: Imprimo la lista original y su clon -> OK
+-----------------------------------
+Prueba 48: Imprimo la lista original y la obtenida -> OK
+-----------------------------------
+Prueba 49: Imprimo prueba de == sobre listas iguales -> OK
+-----------------------------------
+Prueba 50: Imprimo prueba de == sobre listas distintas -> OK
+-----------------------------------
+Prueba 51: Imprimo el principio de la lista -> OK
+-----------------------------------
+Prueba 52: Imprimo el fin de la lista -> OK
+-----------------------------------
+Prueba 53: Imprimo la lista luego de eliminar el principio -> OK
+-----------------------------------
+Prueba 54: Imprimo la lista luego de eliminar el fin -> OK
+-----------------------------------
+Prueba 55: Imprimo la lista luego de eliminar el elemento 3 -> OK
+-----------------------------------
+Prueba 56: Imprimo la recuperación del elemento 2 -> OK
+-----------------------------------
+Prueba 57: Imprimo si el elemento 2 existe en la lista -> OK
+-----------------------------------
+Prueba 58: Imprimo si el elemento 6 existe en la lista -> OK
+-----------------------------------
+Prueba 59: Imprimo si la lista es vacia -> OK
+-----------------------------------
+Prueba 60: Imprimo si la lista creada es vacia  -> OK
+-----------------------------------
+Prueba 61: Imprimo si la lista esta llena -> OK
+-----------------------------------
+Prueba 62: Imprimo la lista luego de vaciarla -> OK
+-----------------------------------
+Prueba 63: Imprimo si la lista es vacia -> OK
+********* FIN PRUEBAS LISTA ORD*******
+
+********* INICIO PRUEBAS LISTA ORD*******
+-----------------------------------
+Prueba 64: Imprimo la lista luego de agregar 9 datos -> OK
+-----------------------------------
+Prueba 65: Imprimo el largo de la lista -> OK
+-----------------------------------
+Prueba 66: Imprimo la lista original y su clon -> OK
+-----------------------------------
+Prueba 67: Imprimo la lista original y la obtenida -> OK
+-----------------------------------
+Prueba 68: Imprimo prueba de == sobre listas iguales -> OK
+-----------------------------------
+Prueba 69: Imprimo prueba de == sobre listas distintas -> OK
+-----------------------------------
+Prueba 70: Imprimo el principio de la lista -> OK
+-----------------------------------
+Prueba 71: Imprimo el fin de la lista -> OK
+-----------------------------------
+Prueba 72: Imprimo la lista luego de eliminar el principio -> OK
+-----------------------------------
+Prueba 73: Imprimo la lista luego de eliminar el fin -> OK
+-----------------------------------
+Prueba 74: Imprimo la lista luego de eliminar el elemento 3 -> OK
+-----------------------------------
+Prueba 75: Imprimo la recuperación del elemento 2 -> OK
+-----------------------------------
+Prueba 76: Imprimo si el elemento 2 existe en la lista -> OK
+-----------------------------------
+Prueba 77: Imprimo si el elemento 6 existe en la lista -> OK
+-----------------------------------
+Prueba 78: Imprimo si la lista es vacia -> OK
+-----------------------------------
+Prueba 79: Imprimo si la lista creada es vacia  -> OK
+-----------------------------------
+Prueba 80: Imprimo si la lista esta llena -> OK
+-----------------------------------
+Prueba 81: Imprimo la lista luego de vaciarla -> OK
+-----------------------------------
+Prueba 82: Imprimo si la lista es vacia -> OK
+********* FIN PRUEBAS LISTA ORD*******
+
+********* INICIO PRUEBAS TABLA*******
+-----------------------------------
+Prueba 83: Imprimo la tabla luego de agregar cuatro elementos -> OK
+-----------------------------------
+Prueba 84: Imprimo la cantidad de elementos en la tabla  -> OK
+-----------------------------------
+Prueba 85: Imprimo la tabla y su clon -> OK
+-----------------------------------
+Prueba 86: Imprimo la tabla y la tabla obtenida -> OK
+-----------------------------------
+Prueba 87: Imprimo prueba de == sobre tablas iguales -> OK
+-----------------------------------
+Prueba 88: Imprimo prueba de == sobre tablas distintas -> OK
+-----------------------------------
+Prueba 89: Imprimo si Dos se encuentra definido en la tabla -> OK
+-----------------------------------
+Prueba 90: Imprimo si Uno se encuentra definido en la tabla -> OK
+-----------------------------------
+Prueba 91: Imprimo la recuperación del elemento Dos -> OK
+-----------------------------------
+Prueba 92: Imprimo la tabla luego de borrar el elemento Tres -> OK
+-----------------------------------
+Prueba 93: Imprimo si la tabla es vacia -> OK
+-----------------------------------
+Prueba 94: Imprimo si la tabla creada  es vacia -> OK
+-----------------------------------
+Prueba 95: Imprimo si la tabla creada  se encuentra llena -> OK
+-----------------------------------
+Prueba 96: Imprimo la tabla luego de vaciarla -> OK
+-----------------------------------
+Prueba 97: Imprimo si la tabla es vacia -> OK
+********* FIN PRUEBAS TABLA*******
+
+********* INICIO PRUEBAS MULTISET*******
+-----------------------------------
+Prueba 98: Imprimo la Multiset luego de agregar 10 datos se espera que la cantidad de elementos sea 5 -> OK
+-----------------------------------
+Prueba 99: Imprimo el Multiset luego de eliminar una ocurrencia del elemento 2 -> OK
+-----------------------------------
+Prueba 100: Imprimo el Multiset luego de eliminar dos ocurrencias del elemento 1 -> OK
+-----------------------------------
+Prueba 101: Muestro la cantidad de ocurrencias de un elemento -> OK
+-----------------------------------
+Prueba 102: Muestro que el multiset no es vacio -> OK
+-----------------------------------
+Prueba 103: Clono el multiset y imprmio el original y el clon -> OK
+-----------------------------------
+Prueba 104: Asigno un nuevo multiset y imprimo la original y la asignada -> OK
+-----------------------------------
+Prueba 105: Muestro que el set clon y el original son iguales -> OK
+-----------------------------------
+Prueba 106: Vacio el multiset y lo imprimo, verifico que sea vacio -> OK
+-----------------------------------
+Prueba 107: Creo un multiset usando CrearVacia y muestro que es vacio -> OK
+-----------------------------------
+Prueba 108: Muestro la cantidad de elementos del multiset original y el clon -> OK
+-----------------------------------
+Prueba 109: Imprimo un elemento del set recuperado -> OK
+-----------------------------------
+Prueba 110: Imprimo un elemento del multiset recuperado y pregunto si pertenece -> OK
+-----------------------------------
+Prueba 111: Pregunto si todos los elementos pertenecen al multiset -> OK
+-----------------------------------
+Prueba 112: Pruebo la union entre dos multiset -> OK
+-----------------------------------
+Prueba 113: Pruebo la Interseccion entre dos multiset -> OK
+-----------------------------------
+Prueba 114: Segunda prueba  Interseccion entre dos multiset -> OK
+-----------------------------------
+Prueba 115: Pruebo la Diferencia entre dos multiset -> OK
+-----------------------------------
+Prueba 116: Pruebo  ContendioEn entre dos multiset -> OK
+-----------------------------------
+Prueba 117: Pruebo la ContendioEn entre dos multiset -> OK
+********* FIN PRUEBAS MULTISET*******
+
+
+
+----------------
+PRUEBAS CORRECTAS: 118
+PRUEBAS INCORRECTAS: 0
+PRUEBAS NO IMPLEMENTADAS: 0
+PRUEBAS COMENTADAS: 0
